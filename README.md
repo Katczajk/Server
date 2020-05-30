@@ -1,4 +1,5 @@
-# Server
+# Simple Server Restarter
+
 - simple Server Restarter
 - project would transform into Linux
 - simple code should help to restart server, after crashes or restart commands
